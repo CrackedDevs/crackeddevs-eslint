@@ -1,0 +1,8 @@
+.git/
+.gitignore
+.npmignore
+README.md
+node_modules/
+*.tgz
+*.tar.gz 
+example/
